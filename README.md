@@ -5,7 +5,8 @@
 Продумывай каждый шаг, исследуй острова и находи правильный маршрут. Иногда путь будет простым, а иногда придётся вернуться назад, изменить порядок действий и посмотреть на головоломку совершенно иначе.
 
 
-<img src="https://github.com/evilgen21/THunterRWB/blob/main/1Ticket%20Hunt%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg" width="194" height="420"> <img src="https://github.com/evilgen21/THunterRWB/blob/main/2Ticket%20Hunt%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg" width="194" height="420"><img src="https://github.com/evilgen21/THunterRWB/blob/main/3Ticket%20Hunt%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg" width="194" height="420"> <img src="https://github.com/evilgen21/THunterRWB/blob/main/4Ticket%20Hunt%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg" width="194" height="420">
+<img src="https://github.com/evilgen21/frostpath/blob/main/2Frost%20Path%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg" width="194" height="420"> <img src="https://github.com/evilgen21/frostpath/blob/main/5Frost%20Path%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg" width="194" height="420"><img src="https://github.com/evilgen21/frostpath/blob/main/6Frost%20Path%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg" width="194" height="420"> <img src="https://github.com/evilgen21/frostpath/blob/main/9Frost%20Path%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg" width="194" height="420">
+<img src="https://github.com/evilgen21/frostpath/blob/main/10Frost%20Path%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg" width="194" height="420">
 
 
 🐦 СПАСАЙ МАЛЕНЬКИХ ПТИЧЕК
