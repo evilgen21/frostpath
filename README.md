@@ -45,4 +45,4 @@ FROST PATH: WINTER JOURNEY
 
 Обратная связь Мы всегда рады услышать ваше мнение! Если у вас возникли вопросы, предложения или проблемы с приложением, напишите нам на почту: yauheni.sabina.dev@icloud.com. Мы постараемся помочь вам в кратчайшие сроки!
 
-Скачать FROST PATH: WINTER JOURNEY сейчас <a href="https://apps.apple.com/us/developer/yauheni-sabina/id1762795289">FROST PATH: WINTER JOURNEY</a>
+Скачать FROST PATH: WINTER JOURNEY сейчас <a href="https://apps.apple.com/la/app/frost-path/id6837222186">FROST PATH: WINTER JOURNEY</a>
